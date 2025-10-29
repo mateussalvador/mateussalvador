@@ -1,10 +1,18 @@
-<p align="center">
+<div align="center">
   <h1 align="center">Olá! Eu sou o Mateus Salvador</h1>
-</p>
-
-- 🔭 Atualmente, trabalho com Python e Inteligência Artificial <br>
-- 🌱 Estudando Python, IA, Banco de Dados e Django
-
+</div>
+<p>Atuo como estagiário em Gabinete de Ministro no Tribunal Superior do Trabalho (TST), onde trabalho princpalmente com <strong>Python</strong> e <strong>Inteligência Artificial</strong>.<br>Realizo o acompanhamento de novas tecnologias, de forma a contribuir com o trabalho do gabinete. O principal foco é o <strong>desenvolvimento de scripts em Python, automatizando tarefas do dia a dia</strong>. Além disso, desenvolvo atividades como criação de assistentes no Chat-JT, a Inteligência Artificial da Justiça do Trabalho, aplicando técnicas de Engenharia de Prompt.</p> 
+<h2>Meus estudos</h2>
+<p>Sigo aplicando e me desenvolvendo em:</p>
+<ul>
+  <li>Python</li>
+  <li>Django</li>
+  <li>Web Scraping (requests, bs4, scrapy, entre outras)</li>
+  <li>SQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
