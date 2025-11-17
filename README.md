@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Olá! Eu sou o Mateus Salvador</h1>
 </div>
-<p>Atuo como estagiário em Gabinete de Ministro no Tribunal Superior do Trabalho (TST), onde trabalho princpalmente com <strong>Python</strong> e <strong>Inteligência Artificial</strong>.<br>Realizo o acompanhamento de novas tecnologias, de forma a contribuir com o trabalho do gabinete. O principal foco é o <strong>desenvolvimento de scripts em Python, automatizando tarefas do dia a dia</strong>. Além disso, desenvolvo atividades como criação de assistentes no Chat-JT, a Inteligência Artificial da Justiça do Trabalho, aplicando técnicas de Engenharia de Prompt.</p> 
+<p>Atuo como estagiário em Gabinete de Ministro no Tribunal Superior do Trabalho (TST), onde trabalho principalmente com <strong>Python</strong> e <strong>Inteligência Artificial</strong>.<br>Realizo o acompanhamento de novas tecnologias, de forma a contribuir com o trabalho do gabinete. O principal foco é o <strong>desenvolvimento de scripts em Python, automatizando tarefas do dia a dia</strong>. Além disso, desenvolvo atividades como criação de assistentes no Chat-JT, a Inteligência Artificial da Justiça do Trabalho, aplicando técnicas de Engenharia de Prompt.</p> 
 <h2>Meus estudos</h2>
 <p>Sigo aplicando e me desenvolvendo em:</p>
 <ul>
@@ -19,7 +19,7 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mateussalvador&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&hide:jupyter%20notebook&layout=donut&theme=tokyonight" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&layout=donut&theme=tokyonight" />
   </a>
 </p>
 
