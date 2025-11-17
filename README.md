@@ -15,13 +15,10 @@
   <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&layout=donut&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mateussalvador&show_icons=true&theme=tokyonight&rank_icon=github" />
-  </a>
+  <a href = "mailto:mateuslimasalvador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateussalvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
 
 <p align="center">
   <img align="center" title="Python" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -34,6 +31,10 @@
 </p>
 
 <p align="center">
-  <a href = "mailto:mateuslimasalvador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateussalvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&layout=donut&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mateussalvador&show_icons=true&theme=tokyonight&rank_icon=github" />
+  </a>
 </p>
