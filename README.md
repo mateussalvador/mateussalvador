@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mateussalvador&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&layout=donut&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussalvador&layout=donut&theme=tokyonight" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mateussalvador&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
 </p>
 
