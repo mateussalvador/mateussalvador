@@ -7,7 +7,7 @@
 <ul>
   <li>Python</li>
   <li>Django</li>
-  <li>Web Scraping (requests, bs4, scrapy, entre outras)</li>
+  <li>Web Scraping</li>
   <li>SQL</li>
   <li>HTML</li>
   <li>CSS</li>
